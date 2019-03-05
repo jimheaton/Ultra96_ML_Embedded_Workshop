@@ -409,8 +409,9 @@ You should see something similar to:
 
 ![Profiler](./images/profiler.PNG)
 
-The average utilization (percentage of time the DPU is performing numerical ops) of the DPU should be about 50%
-Note: GPUs typically have utilization below 20% for real time (batch size 1) inference like we have have just run.
+The average utilization (percentage of time the DPU is performing numerical ops) of the DPU should be about 49%. This number is quite good, when comparing with GPUs. 
+
+GPUs typically have lower utilization below 20% for real time (batch size 1) inference applications like we have have just run.
  
 
 ## Try face detection with Densebox
