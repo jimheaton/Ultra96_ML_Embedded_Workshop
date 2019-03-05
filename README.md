@@ -249,7 +249,7 @@ Copy the file dpu_resnet50.elf from the AWS instance to your host machine.
 
 ![MAIN.CC](./images/download.PNG)
 
-You are down using the AWS instance for the resnet50 example, however leave the instance running since you will be using it for the densebox face detection example.
+You are done using the AWS instance for the resnet50 example, however leave the instance running since you will be using it for the densebox face detection example.
 
 
 ### Connecting to the target Board
