@@ -159,7 +159,7 @@ If you have interest, feel free to have a look into float.prototxt in ~/dnndk/Ul
 
 You may want to download the file from AWS to your host machine for easier viewing. To do this:
     
-    In the MobaXterm Gui browse to the dir /home/ubuntu/dnndk/Ultra96/resnet50/dnnc_output/
+    In the MobaXterm Gui browse to the dir /home/ubuntu/dnndk/Ultra96/resnet50/
     Right click on the file float.prototxt and select download
 
   
