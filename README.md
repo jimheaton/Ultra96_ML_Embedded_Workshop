@@ -424,6 +424,8 @@ We will now move back to working with the AWS instance.
 Let us continue our experiment. 
 
     cd ~/dnndk/Ultra96/densebox
+    ls
+
 The content is shown below:
  
 ![DenseBox Content](./images/densebox_content.png)
@@ -445,7 +447,8 @@ The kernel information is as follow:
     Right click on the file dpu_densebox.elf and select download
     Copy the elf file to the SD card, insert the SD Card into the Ultra96 and power back on.
 
-Now we will go back to working on the Ultra96 board serial port terminal
+Now we will go back to working on the Ultra96 board serial port terminal:
+
     cp -f /media/card/dpu_densebox.elf /root/Ultra96/samples/face_detection/model/
 
 **Note: If you are unable to copy the files due a limitation on your machine we have already copied an example to the model dir for you.**
