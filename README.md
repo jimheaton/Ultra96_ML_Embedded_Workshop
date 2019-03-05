@@ -523,6 +523,7 @@ The script **decent_ inception_v1.sh** is similar to the resnet50 script.
 ![Inception Script](./images/inception_script.png)
 
 On your AWS terminal run decent with the following commands
+
      cd ~/dnndk/Ultra96/inception_v1
     ./decent_ inception_v1.sh
 
