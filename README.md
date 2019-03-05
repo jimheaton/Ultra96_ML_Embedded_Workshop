@@ -576,7 +576,7 @@ If you would like to download this:
     In the MobaXterm Gui browse to the dir /home/ubuntu/dnndk/Ultra96/samples/inception_v1/src/.backup/
     Right click on the file main.cc and select download
 
-You are now down with the AWS instance for the rest of this lab.
+You are now done with the AWS instance for the rest of this lab.
 
 Copy the completed main.cc to the Ultra96 board at ~/dnndk/Ultra96/samples/inception_v1/src 
 
@@ -616,7 +616,7 @@ Otherwise, please stop the AWS instance. If youIt is always important to always 
 
 After about 1 minute please refresh your browser and verify that the instance state is stopped:
 
-![AWS Stopped](./images/aws_stopped.png)
+![AWS Login](./images/AWS_Instances.png)
 
 
 ### Next steps
@@ -697,7 +697,7 @@ Otherwise, please stop the AWS instance. If youIt is always important to always 
 
 After about 1 minute please refresh your browser and verify that the instance state is stopped:
 
-![AWS Stopped](./images/aws_stopped.png)
+![AWS Login](./images/AWS_Instances.png)
 
 
 ### Next steps
