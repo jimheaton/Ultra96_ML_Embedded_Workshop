@@ -484,7 +484,7 @@ Otherwise stop the AWS instance. It is always important to always stop the AWS E
 
 After about 1 minute please refresh your browser and verify that the instance state is stopped:
 
-![AWS Stopped](./images/aws_stopped.png)
+![AWS Stopped](./images/AWS_Instances.png)
 
 
 ### Next steps
