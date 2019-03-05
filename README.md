@@ -247,7 +247,7 @@ Copy the file dpu_resnet50.elf from the AWS instance to your host machine.
     In the MobaXterm Gui browse to the dir /home/ubuntu/dnndk/Ultra96/resnet50/dnnc_output/
     Right click on the file dpu_reset50.elf and select download
 
-![MAIN.CC](./images/download.png)
+![MAIN.CC](./images/download.PNG)
 
 You are down using the AWS instance for the resnet50 example, however leave the instance running since you will be using it for the densebox face detection example.
 
