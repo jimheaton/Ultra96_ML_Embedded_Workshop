@@ -93,7 +93,7 @@ If you do not have **MobaXterm** installed, you can download it from:https://mob
     For the pass word use the same as the AWS login
 
 
-![AWS Login](./images/MobaXterm.png)
+![AWS Login](./images/MobaXterm.PNG)
 
 You should now have a terminal prompt
 
