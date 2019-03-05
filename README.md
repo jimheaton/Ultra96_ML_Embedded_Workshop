@@ -90,7 +90,7 @@ Please use **MobaXterm** as your SSH client. We will taking advantage of its eas
 If you do not have **MobaXterm** installed, you can download it from:https://mobaxterm.mobatek.net/download.html
 
     In the SSH client start a new SSH sessionm, use the IPv4 Public IP of your AWS instance and ubuntu for the host name
-    For the pass word use the same as the AWS login
+    For the password use the same as the AWS login
 
 
 ![AWS Login](./images/MobaXterm.PNG)
