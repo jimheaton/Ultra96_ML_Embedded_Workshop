@@ -136,6 +136,9 @@ You will go through the following steps,
 5. Run it the Ultra96 board to see the result
 
 Look into ~/dnndk/Ultra96/resnet50: 
+  
+    cd ~/dnndk/Ultra96/resnet50
+    ls
 
 ![RESNET50](./images/resnet50_directory.png)
 
@@ -150,9 +153,16 @@ Look into ~/dnndk/Ultra96/resnet50:
 * decent_output: the output folder of Resnet50 quantization
 * dnnc_output: the output folder of Resnet50 compilation
 
-The directory and file arrangement of Inception_v1 and SSD are very similar. 
+The directory and file arrangement of the other lab examples is very similar.
 
 If you have interest, feel free to have a look into float.prototxt in ~/dnndk/Ultra96/resnet50/
+
+You may want to download the file from AWS to your host machine for easier viewing. To do this:
+    
+    In the MobaXterm Gui browse to the dir /home/ubuntu/dnndk/Ultra96/resnet50/dnnc_output/
+    Right click on the file float.prototxt and select download
+
+  
 
 The first layer on top is ImageData type with calibration images for the quantization. DNNDK does not support the mean file e.g. mean.binaryproto. Instead we use 3 mean values as shown below. 
 
