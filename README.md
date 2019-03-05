@@ -67,7 +67,7 @@ Use the following login information
     
 
   
-After logging in your instance corresponding to **your provided user name**. If you see a different user name, you have logged into the wrong machine, and you need to logout and login with the correct link and user name.
+After logging in you should see an instance corresponding to **your provided user name**. If you see a different user name, you have logged into the wrong machine, and you need to logout and login with the correct link and user name.
 
     Select the instance associated with your user name
     click __*Actions > Instance State > Start*__. 
