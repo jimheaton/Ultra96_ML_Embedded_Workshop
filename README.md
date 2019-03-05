@@ -646,7 +646,8 @@ Run **decent** to quantize and generate deploy.prototxt and deploy.caffemodel in
 
 
 Run **dnnc** to generate DPU kernel ELF file dpu_ssd.elf in ~/dnndk/Ultra96/ssd/dnnc\_output
-     ./dnnc
+
+     ./dnnc_ssd.sh
 
 Copy the elf file from AWS to your host machine:
 
